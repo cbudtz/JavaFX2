@@ -9,7 +9,7 @@ public class FX2 extends Application {
     }
     @Override
     public void start(Stage primaryStage) {
-        Label label = new Label("Hello FX13 - Commit Nr 2!");
+        Label label = new Label("Hello FX13 - Commit Nr 2 fra Johnny");
         FlowPane flowPane = new FlowPane();
         flowPane.getChildren().add(label);
         Scene scene = new Scene(flowPane);
