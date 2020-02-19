@@ -21,3 +21,4 @@ public class FX2 extends Application {
         primaryStage.show();
     }
 }
+hejhej
