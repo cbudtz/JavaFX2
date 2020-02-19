@@ -11,7 +11,7 @@ public class FX2 extends Application {
     public void start(Stage primaryStage) {
         Label label = new Label("Hello FX13 - Commit Nr 2 fra Johnny og Brian");
         Label label2 = new Label("Ny spændende label Label");
-        Label label3 = new Label("Master Label");
+        Label label3 = new Label("Master Label - Hemmelig Label!");
         FlowPane flowPane = new FlowPane();
         flowPane.getChildren().add(label);
         flowPane.getChildren().add(label3);
